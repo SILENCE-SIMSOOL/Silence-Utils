@@ -3,9 +3,9 @@ Mod Name: Silence Utils
 
 Latest Version: 1.1.8
 
-Author: SimSool
+Author: SimSool, Light
 
-Discord: SimSool#7068
+Discord: SimSool
 
 ## What is Mod
 하이픽셀 스카이블럭에서 작은 기능들로 게임의 편리함을 위하여 만들어졌습니다.
