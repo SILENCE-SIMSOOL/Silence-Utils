@@ -7,6 +7,8 @@ Author: SimSool
 Discord: SimSool
 (Contributor: Light)
 
+This mod is for Hypixel Skyblock
+
 ## What is Mod
 하이픽셀 스카이블럭에서 작은 기능들로 게임의 편리함을 위하여 만들어졌습니다.
 FPS 저하 원인중 하나인 너무나도 무겁고 어떤 모드들은 최적화도 제대로 되어있지 않은 스카이블럭 모드들이 많습니다.
