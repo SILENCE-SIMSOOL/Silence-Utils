@@ -1,7 +1,7 @@
 # SILENCE UTILS
 Mod Name: Silence Utils
 
-Latest Version: 1.1.8
+Latest Version: 1.3.6-beta2
 
 Author: SimSool
 Discord: SimSool
