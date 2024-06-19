@@ -3,14 +3,14 @@ Mod Name: Silence Utils
 
 Latest Version: 1.1.8
 
-Author: SimSool, Light
-
+Author: SimSool
 Discord: SimSool
+(Contributor: Light)
 
 ## What is Mod
 하이픽셀 스카이블럭에서 작은 기능들로 게임의 편리함을 위하여 만들어졌습니다.
 FPS 저하 원인중 하나인 너무나도 무겁고 어떤 모드들은 최적화도 제대로 되어있지 않은 스카이블럭 모드들이 많습니다.
-그래서 정말 필요하고 도움이 되는 기능들만 따로 제작하여 가볍고 편리한 기능들을 지원합니다.
+그래서 정말 실질적이고 유용한 기능들로 구성되어 가벼우면서 편리한 기능들을 지원합니다.
 
 ## Hotkeys
 O - Open Equipment Menu
